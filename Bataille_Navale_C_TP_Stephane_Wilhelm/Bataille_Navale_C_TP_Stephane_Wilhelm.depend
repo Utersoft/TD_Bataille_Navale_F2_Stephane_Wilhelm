@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607244062 source:c:\users\djame\documents\github\tp_bataille_navale_f2_stephane_wilhelm\bataille_navale_c_tp_stephane_wilhelm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"define.h"
+
+1607246475 c:\users\djame\documents\github\tp_bataille_navale_f2_stephane_wilhelm\bataille_navale_c_tp_stephane_wilhelm\define.h
+
